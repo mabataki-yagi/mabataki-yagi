@@ -12,7 +12,8 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabataki-yagi&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mabataki-yagi&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=mabataki-yagi&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php," /> <br /><br />
 
